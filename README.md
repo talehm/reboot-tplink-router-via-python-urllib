@@ -20,8 +20,6 @@ WR840N v2
 3.16.9 Build 160406 Rel.40792n 
 </td>
 </tr>
-
-    <tr>
 <td>
 WR841N v12
 </td>
