@@ -6,6 +6,31 @@ You can reboot your tp-link router via python urllib package.
 ## Prerequesties:
 * python v3
 * Access to the router
+## Tested Models
+<table>
+    <tr>
+    <th>Hardware Version</th>
+    <th>Firmware Version</th>
+    </tr>
+<tr>
+<td>
+WR840N v2
+</td>
+<td>
+3.16.9 Build 160406 Rel.40792n 
+</td>
+</tr>
+
+    <tr>
+<td>
+WR841N v12
+</td>
+<td>
+3.16.9 Build 160624 Rel.44986n </td>
+</tr>
+</table>
+
+## Example
 
 ```python 
     message, status = runScript( Router_Name, ip_address, username, password )
